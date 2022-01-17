@@ -35,7 +35,7 @@ A list of open source web security scanners on GitHub.
 
 ## Contribute
 
-PR's welcomed - template line (repace USER/REPO):
+PR's welcomed - template line (replace USER/REPO):
 ```
 | []() | [![Last Commit](https://img.shields.io/github/last-commit/USER/REPO)](https://github.com/USER/REPO/commits) | [![Contributors](https://img.shields.io/github/contributors/USER/REPO)](https://github.com/USER/REPO/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/USER/REPO)](https://github.com/USER/REPO/stargazers) |
 ```
