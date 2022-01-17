@@ -15,13 +15,12 @@ A list of open source web security scanners on GitHub.
 | [Skipfish](https://code.google.com/archive/p/skipfish/) | [![Last Commit](https://img.shields.io/github/last-commit/spinkham/skipfish)](https://github.com/spinkham/skipfish/commits/main) | [![Contributors](https://img.shields.io/github/contributors/spinkham/skipfish)](https://github.com/spinkham/skipfish/graphs/contributors) |
 | [Ugly-duckling](https://github.com/detectify/ugly-duckling) | [![Last Commit](https://img.shields.io/github/last-commit/detectify/ugly-duckling)](https://github.com/detectify/ugly-duckling/commits/main) | [![Contributors](https://img.shields.io/github/contributors/detectify/ugly-duckling)](https://github.com/detectify/ugly-duckling/graphs/contributors) |
 | [Vega](https://subgraph.com/vega/) | [![Last Commit](https://img.shields.io/github/last-commit/subgraph/Vega)](https://github.com/subgraph/Vega/commits/main) | [![Contributors](https://img.shields.io/github/contributors/subgraph/Vega)](https://github.com/subgraph/Vega/graphs/contributors) |
-| [Volnx](https://github.com/anouarbensaad/vulnx) | [![Last Commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx)](https://github.com/anouarbensaad/vulnx/commits/main) | [![Contributors](https://img.shields.io/github/contributors/anouarbensaad/vulnx)](https://github.com/anouarbensaad/vulnx/graphs/contributors) |
 | [W3af](http://w3af.org/) | [![Last Commit](https://img.shields.io/github/last-commit/andresriancho/w3af/develop)](https://github.com/andresriancho/w3af/commits/main) | [![Contributors](https://img.shields.io/github/contributors/andresriancho/w3af)](https://github.com/andresriancho/w3af/graphs/contributors) |
 | [Wfuzz](https://wfuzz.readthedocs.io/en/latest/) | [![Last Commit](https://img.shields.io/github/last-commit/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/commits/main) | [![Contributors](https://img.shields.io/github/contributors/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/graphs/contributors) |
 | [Yasuo](https://github.com/0xsauby/yasuo) | [![Last Commit](https://img.shields.io/github/last-commit/0xsauby/yasuo)](https://github.com/0xsauby/yasuo/commits/main) | [![Contributors](https://img.shields.io/github/contributors/0xsauby/yasuo)](https://github.com/0xsauby/yasuo/graphs/contributors) |
 | [ZAP](https://www.zaproxy.org) | [![Last Commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/commits/main) | [![Contributors](https://img.shields.io/github/contributors/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/graphs/contributors) |
 
-## CMS Specific Web Scanners
+## CMS Web Scanners
 
 | Main Site | Last Commit | Committers |
 | --- | --- | --- |
@@ -29,6 +28,7 @@ A list of open source web security scanners on GitHub.
 | [CMSScan](https://github.com/ajinabraham/CMSScan) | [![Last Commit](https://img.shields.io/github/last-commit/ajinabraham/CMSScan)](https://github.com/ajinabraham/CMSScan/commits/main) | [![Contributors](https://img.shields.io/github/contributors/ajinabraham/CMSScan)](https://github.com/ajinabraham/CMSScan/graphs/contributors) |
 | [Droopescan](https://github.com/SamJoan/droopescan) | [![Last Commit](https://img.shields.io/github/last-commit/SamJoan/droopescan)](https://github.com/SamJoan/droopescan/commits/main) | [![Contributors](https://img.shields.io/github/contributors/SamJoan/droopescan)](https://github.com/SamJoan/droopescan/graphs/contributors) |
 | [JoomScan](https://wiki.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) | [![Last Commit](https://img.shields.io/github/last-commit/OWASP/joomscan)](https://github.com/OWASP/joomscan/commits/main) | [![Contributors](https://img.shields.io/github/contributors/OWASP/joomscan)](https://github.com/OWASP/joomscan/graphs/contributors) |
+| [Volnx](https://github.com/anouarbensaad/vulnx) | [![Last Commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx)](https://github.com/anouarbensaad/vulnx/commits/main) | [![Contributors](https://img.shields.io/github/contributors/anouarbensaad/vulnx)](https://github.com/anouarbensaad/vulnx/graphs/contributors) |
 | [WPscan](https://wpscan.org/) | [![Last Commit](https://img.shields.io/github/last-commit/wpscanteam/wpscan)](https://github.com/wpscanteam/wpscan/commits/main) | [![Contributors](https://img.shields.io/github/contributors/wpscanteam/wpscan)](https://github.com/wpscanteam/wpscan/graphs/contributors) |
 
 ## Contribute
