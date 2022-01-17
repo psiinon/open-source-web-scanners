@@ -19,6 +19,8 @@ A list of open source web security scanners on GitHub.
 | [Yasuo](https://github.com/0xsauby/yasuo) | [![Last Commit](https://img.shields.io/github/last-commit/0xsauby/yasuo)](https://github.com/0xsauby/yasuo/commits/main) | [![Contributors](https://img.shields.io/github/contributors/0xsauby/yasuo)](https://github.com/0xsauby/yasuo/graphs/contributors) |
 | [ZAP](https://www.zaproxy.org) | [![Last Commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/commits/main) | [![Contributors](https://img.shields.io/github/contributors/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/graphs/contributors) |
 
+PR's welcomed - theres a template line in a comment after this line.
+
 <!--
 Template - copy this and replace USER/REPO with the relevant values
 
