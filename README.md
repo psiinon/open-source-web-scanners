@@ -1,5 +1,5 @@
 # open-source-web-scanners
-A list of open source web security scanners on GitHub, ordered by Stars.
+A list of open source web security scanners on GitHub, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools see the Links below.
 
 ## General Purpose Web Scanners
 
@@ -48,6 +48,12 @@ Tools which can find a range of 'known' vulnerabilities on one or more CMS websi
 | [CMSScan](https://github.com/ajinabraham/CMSScan) | [![Last Commit](https://img.shields.io/github/last-commit/ajinabraham/CMSScan)](https://github.com/ajinabraham/CMSScan/commits) | [![Contributors](https://img.shields.io/github/contributors/ajinabraham/CMSScan)](https://github.com/ajinabraham/CMSScan/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/ajinabraham/CMSScan)](https://github.com/ajinabraham/CMSScan/stargazers) |
 | [JoomScan](https://wiki.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) | [![Last Commit](https://img.shields.io/github/last-commit/OWASP/joomscan)](https://github.com/OWASP/joomscan/commits) | [![Contributors](https://img.shields.io/github/contributors/OWASP/joomscan)](https://github.com/OWASP/joomscan/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/OWASP/joomscan)](https://github.com/OWASP/joomscan/stargazers) |
 | [Clusterd](https://github.com/hatRiot/clusterd) | [![Last Commit](https://img.shields.io/github/last-commit/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/commits) | [![Contributors](https://img.shields.io/github/contributors/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/stargazers) |
+
+## Links
+
+* [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) - includes commercial tools as well
+* [Linux Security Tools](https://linuxsecurity.expert/security-tools/) - covers more tools and evaluates more criteria
+* [Web Hackers Weapons](https://github.com/hahwul/WebHackersWeapons) - covers more tools
 
 ## Contribute
 
