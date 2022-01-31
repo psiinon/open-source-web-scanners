@@ -8,8 +8,6 @@ Tools which can find a range of 'unknown' vulnerabilities on any websites.
 | Main Site | Last Commit | Committers | Stars |
 | --- | --- | --- | --- |
 | [ZAP](https://www.zaproxy.org) | [![Last Commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/commits) | [![Contributors](https://img.shields.io/github/contributors/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy/stargazers) |
-| [Ffuf](https://github.com/ffuf/ffuf) | [![Last Commit](https://img.shields.io/github/last-commit/ffuf/ffuf)](https://github.com/ffuf/ffuf/commits) | [![Contributors](https://img.shields.io/github/contributors/ffuf/ffuf)](https://github.com/ffuf/ffuf/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/ffuf/ffuf)](https://github.com/ffuf/ffuf/stargazers) |
-| [Wfuzz](https://wfuzz.readthedocs.io/en/latest/) | [![Last Commit](https://img.shields.io/github/last-commit/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/commits) | [![Contributors](https://img.shields.io/github/contributors/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/stargazers) |
 | [W3af](http://w3af.org/) | [![Last Commit](https://img.shields.io/github/last-commit/andresriancho/w3af/develop)](https://github.com/andresriancho/w3af/commits) | [![Contributors](https://img.shields.io/github/contributors/andresriancho/w3af)](https://github.com/andresriancho/w3af/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/andresriancho/w3af)](https://github.com/andresriancho/w3af/stargazers) |
 | [Hetty](https://hetty.xyz/) | [![Last Commit](https://img.shields.io/github/last-commit/dstotijn/hetty)](https://github.com/dstotijn/hetty/commits) | [![Contributors](https://img.shields.io/github/contributors/dstotijn/hetty)](https://github.com/dstotijn/hetty/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/dstotijn/hetty)](https://github.com/dstotijn/hetty/stargazers) |
 | [Arachni](https://www.arachni-scanner.com/) | [![Last Commit](https://img.shields.io/github/last-commit/Arachni/arachni)](https://github.com/Arachni/arachni/commits) | [![Contributors](https://img.shields.io/github/contributors/Arachni/arachni)](https://github.com/Arachni/arachni/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/Arachni/arachni)](https://github.com/Arachni/arachni/stargazers) |
@@ -36,6 +34,19 @@ Tools which can find a range of 'known' vulnerabilities on any websites.
 | [Observatory](https://observatory.mozilla.org/) | [![Last Commit](https://img.shields.io/github/last-commit/mozilla/http-observatory-website)](https://github.com/mozilla/http-observatory-website/commits) | [![Contributors](https://img.shields.io/github/contributors/mozilla/http-observatory-website)](https://github.com/mozilla/http-observatory-website/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/mozilla/http-observatory-website)](https://github.com/mozilla/http-observatory-website/stargazers) |
 | [Spaghetti](https://github.com/infosecsecurity/Spaghetti) | [![Last Commit](https://img.shields.io/github/last-commit/infosecsecurity/Spaghetti)](https://github.com/infosecsecurity/Spaghetti/commits) | [![Contributors](https://img.shields.io/github/contributors/infosecsecurity/Spaghetti)](https://github.com/infosecsecurity/Spaghetti/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/infosecsecurity/Spaghetti)](https://github.com/infosecsecurity/Spaghetti/stargazers) |
 
+## Fuzzers / Brute Forcers
+
+Tools which focus on throwing 'bad stuff' at things - the user typically has to work out if it sticks.
+
+| Main Site | Last Commit | Committers | Stars |
+| --- | --- | --- | --- |
+| [dirsearch](https://github.com/maurosoria/dirsearch) | [![Last Commit](https://img.shields.io/github/last-commit/maurosoria/dirsearch)](https://github.com/maurosoria/dirsearch/commits) | [![Contributors](https://img.shields.io/github/contributors/maurosoria/dirsearch)](https://github.com/maurosoria/dirsearch/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch)](https://github.com/maurosoria/dirsearch/stargazers) |
+| [Ffuf](https://github.com/ffuf/ffuf) | [![Last Commit](https://img.shields.io/github/last-commit/ffuf/ffuf)](https://github.com/ffuf/ffuf/commits) | [![Contributors](https://img.shields.io/github/contributors/ffuf/ffuf)](https://github.com/ffuf/ffuf/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/ffuf/ffuf)](https://github.com/ffuf/ffuf/stargazers) |
+| [gobuster](https://github.com/OJ/gobuster) | [![Last Commit](https://img.shields.io/github/last-commit/OJ/gobuster)](https://github.com/OJ/gobuster/commits) | [![Contributors](https://img.shields.io/github/contributors/OJ/gobuster)](https://github.com/OJ/gobuster/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/OJ/gobuster)](https://github.com/OJ/gobuster/stargazers) |
+| [Wfuzz](https://wfuzz.readthedocs.io/en/latest/) | [![Last Commit](https://img.shields.io/github/last-commit/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/commits) | [![Contributors](https://img.shields.io/github/contributors/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/xmendez/wfuzz)](https://github.com/xmendez/wfuzz/stargazers) |
+| [feroxbuster](https://github.com/epi052/feroxbuster) | [![Last Commit](https://img.shields.io/github/last-commit/epi052/feroxbuster)](https://github.com/epi052/feroxbuster/commits) | [![Contributors](https://img.shields.io/github/contributors/epi052/feroxbuster)](https://github.com/epi052/feroxbuster/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/epi052/feroxbuster)](https://github.com/epi052/feroxbuster/stargazers) |
+| [rustbusterv](https://github.com/phra/rustbuster) | [![Last Commit](https://img.shields.io/github/last-commit/phra/rustbuster)](https://github.com/phra/rustbuster/commits) | [![Contributors](https://img.shields.io/github/contributors/phra/rustbuster)](https://github.com/phra/rustbuster/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/phra/rustbuster)](https://github.com/phra/rustbuster/stargazers) |
+
 ## CMS Web Scanners
 
 Tools which can find a range of 'known' vulnerabilities on one or more CMS websites.
@@ -57,7 +68,7 @@ Tools which can find a range of 'known' vulnerabilities on one or more CMS websi
 
 ## Contribute
 
-PR's welcomed - template line (replace USER/REPO):
+PR's welcomed - template line (replace USER_REPO):
 ```
-| []() | [![Last Commit](https://img.shields.io/github/last-commit/USER/REPO)](https://github.com/USER/REPO/commits) | [![Contributors](https://img.shields.io/github/contributors/USER/REPO)](https://github.com/USER/REPO/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/USER/REPO)](https://github.com/USER/REPO/stargazers) |
+| []() | [![Last Commit](https://img.shields.io/github/last-commit/USER_REPO)](https://github.com/USER_REPO/commits) | [![Contributors](https://img.shields.io/github/contributors/USER_REPO)](https://github.com/USER_REPO/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/USER_REPO)](https://github.com/USER_REPO/stargazers) |
 ```
