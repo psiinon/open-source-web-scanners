@@ -64,6 +64,14 @@ Tools which can find a range of 'known' vulnerabilities on one or more CMS websi
 | [JoomScan](https://wiki.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) | [![Last Commit](https://img.shields.io/github/last-commit/OWASP/joomscan)](https://github.com/OWASP/joomscan/commits) | [![Contributors](https://img.shields.io/github/contributors/OWASP/joomscan)](https://github.com/OWASP/joomscan/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/OWASP/joomscan)](https://github.com/OWASP/joomscan/stargazers) |
 | [Clusterd](https://github.com/hatRiot/clusterd) | [![Last Commit](https://img.shields.io/github/last-commit/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/commits) | [![Contributors](https://img.shields.io/github/contributors/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/hatRiot/clusterd)](https://github.com/hatRiot/clusterd/stargazers) |
 
+## API Web Scanners
+
+Tools which focus on web APIs.
+
+| Main Site | Last Commit | Committers | Stars |
+| --- | --- | --- | --- |
+| [Cherrybomb](https://github.com/blst-security/cherrybomb) | [![Last Commit](https://img.shields.io/github/last-commit/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/commits) | [![Contributors](https://img.shields.io/github/contributors/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/stargazers) |
+
 ## Links
 
 * [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) - includes commercial tools as well
