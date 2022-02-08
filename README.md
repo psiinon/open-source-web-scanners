@@ -73,6 +73,15 @@ Tools which focus on web APIs.
 | [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) | [![Last Commit](https://img.shields.io/github/last-commit/imperva/automatic-api-attack-tool)](https://github.com/imperva/automatic-api-attack-tool/commits) | [![Contributors](https://img.shields.io/github/contributors/imperva/automatic-api-attack-tool)](https://github.com/imperva/automatic-api-attack-tool/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/imperva/automatic-api-attack-tool)](https://github.com/imperva/automatic-api-attack-tool/stargazers) |
 | [Cherrybomb](https://github.com/blst-security/cherrybomb) | [![Last Commit](https://img.shields.io/github/last-commit/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/commits) | [![Contributors](https://img.shields.io/github/contributors/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb/stargazers) |
 
+## Specialised Scanners
+
+Tools which focus on specific types of vulnerabilities.
+
+| Main Site | Last Commit | Committers | Stars |
+| --- | --- | --- | --- |
+| [Sqlmap](https://sqlmap.org/) | [![Last Commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/commits) | [![Contributors](https://img.shields.io/github/contributors/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/stargazers) |
+| [Comix](https://github.com/commixproject/commix) | [![Last Commit](https://img.shields.io/github/last-commit/commixproject/commix)](https://github.com/commixproject/commix/commits) | [![Contributors](https://img.shields.io/github/contributors/commixproject/commix)](https://github.com/commixproject/commix/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/commixproject/commix)](https://github.com/commixproject/commix/stargazers) |
+
 ## Links
 
 * [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) - includes commercial tools as well
