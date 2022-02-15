@@ -1,7 +1,7 @@
 # open-source-web-scanners
-A list of open source web security scanners on GitHub, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools see the Links below.
+A list of open source web security scanners on GitHub, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools, see the links below.
 
-Note that some large projects have multiple repos - in which case the second most relevant repo is included immediatelly after.
+Note that some large projects have multiple repos - in which case the second most relevant repo is included immediately after.
 
 ## General Purpose Web Scanners
 
