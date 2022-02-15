@@ -85,6 +85,7 @@ Tools which focus on specific types of vulnerabilities.
 ## Links
 
 * [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) - includes commercial tools as well
+* [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools) - covers more tools, includes commercial tools as well
 * [Linux Security Tools](https://linuxsecurity.expert/security-tools/) - covers more tools and evaluates more criteria
 * [Web Hackers Weapons](https://github.com/hahwul/WebHackersWeapons) - covers more tools
 
