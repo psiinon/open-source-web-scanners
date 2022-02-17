@@ -1,5 +1,5 @@
 # open-source-web-scanners
-A list of open source web security scanners on GitHub, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools, see the links below.
+A list of open source web security scanners on GitHub and GitLab (just added), ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools, see the links below.
 
 Note that some large projects have multiple repos - in which case the second most relevant repo is included immediately after.
 
@@ -22,6 +22,7 @@ Tools which can find a range of 'unknown' vulnerabilities on any websites.
 | [Wapiti](https://wapiti-scanner.github.io/) | [![Last Commit](https://img.shields.io/github/last-commit/wapiti-scanner/wapiti)](https://github.com/wapiti-scanner/wapiti/commits) | [![Contributors](https://img.shields.io/github/contributors/wapiti-scanner/wapiti)](https://github.com/wapiti-scanner/wapiti/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/wapiti-scanner/wapiti)](https://github.com/wapiti-scanner/wapiti/stargazers) |
 | [Ugly-duckling](https://github.com/detectify/ugly-duckling) | [![Last Commit](https://img.shields.io/github/last-commit/detectify/ugly-duckling)](https://github.com/detectify/ugly-duckling/commits) | [![Contributors](https://img.shields.io/github/contributors/detectify/ugly-duckling)](https://github.com/detectify/ugly-duckling/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/detectify/ugly-duckling)](https://github.com/detectify/ugly-duckling/stargazers) |
 | [Jawfish](https://github.com/war-and-code/jawfish) | [![Last Commit](https://img.shields.io/github/last-commit/war-and-code/jawfish)](https://github.com/war-and-code/jawfishO/commits) | [![Contributors](https://img.shields.io/github/contributors/war-and-code/jawfish)](https://github.com/war-and-code/jawfish/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/war-and-code/jawfish)](https://github.com/war-and-code/jawfish/stargazers) |
+| [Browserker](https://gitlab.com/wirepair/browserker/) | [![Last Commit](https://badgen.net/gitlab/last-commit/wirepair/browserker)](https://gitlab.com/wirepair/browserker/-/commits/master) | [![Contributors](https://badgen.net/gitlab/contributors/wirepair/browserker/)](https://gitlab.com/wirepair/browserker/-/graphs/master) | [![Stars](https://badgen.net/gitlab/stars/wirepair/browserker/)](https://gitlab.com/wirepair/browserker/-/starrers) |
 
 ## Infrastructure Web Scanners
 
@@ -91,7 +92,13 @@ Tools which focus on specific types of vulnerabilities.
 
 ## Contribute
 
-PR's welcomed - template line (replace USER_REPO):
+PR's welcomed.
+
+Template line for GitHub projects (replace USER_REPO):
 ```
 | []() | [![Last Commit](https://img.shields.io/github/last-commit/USER_REPO)](https://github.com/USER_REPO/commits) | [![Contributors](https://img.shields.io/github/contributors/USER_REPO)](https://github.com/USER_REPO/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/USER_REPO)](https://github.com/USER_REPO/stargazers) |
+```
+Template line for GitLab projects (replace USER_REPO):
+```
+| []() | [![Last Commit](https://badgen.net/gitlab/last-commit/USER_REPO)](https://gitlab.com/USER_REPO/-/commits/master) | [![Contributors](https://badgen.net/gitlab/contributors/USER_REPO/)](https://gitlab.com/USER_REPO/-/graphs/master) | [![Stars](https://badgen.net/gitlab/stars/USER_REPO/)](https://gitlab.com/USER_REPO/-/starrers) |
 ```
