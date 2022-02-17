@@ -89,6 +89,7 @@ Tools which focus on specific types of vulnerabilities.
 * [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools) - covers more tools, includes commercial tools as well
 * [Linux Security Tools](https://linuxsecurity.expert/security-tools/) - covers more tools and evaluates more criteria
 * [Web Hackers Weapons](https://github.com/hahwul/WebHackersWeapons) - covers more tools
+* [Arsenal of cloud native security tools](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
 
 ## Contribute
 
