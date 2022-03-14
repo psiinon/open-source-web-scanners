@@ -83,6 +83,7 @@ Tools which focus on specific types of vulnerabilities.
 | --- | --- | --- | --- |
 | [Sqlmap](https://sqlmap.org/) | [![Last Commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/commits) | [![Contributors](https://img.shields.io/github/contributors/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap/stargazers) |
 | [Comix](https://github.com/commixproject/commix) | [![Last Commit](https://img.shields.io/github/last-commit/commixproject/commix)](https://github.com/commixproject/commix/commits) | [![Contributors](https://img.shields.io/github/contributors/commixproject/commix)](https://github.com/commixproject/commix/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/commixproject/commix)](https://github.com/commixproject/commix/stargazers) |
+| [Xsscrapy](https://github.com/DanMcInerney/xsscrapy) | [![Last Commit](https://img.shields.io/github/last-commit/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/commits) | [![Contributors](https://img.shields.io/github/contributors/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/stargazers) |
 
 ## Links
 
