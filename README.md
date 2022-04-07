@@ -56,6 +56,15 @@ Tools which focus on throwing 'bad stuff' at things - the user typically has to 
 | [rustbusterv](https://github.com/phra/rustbuster) | [![Last Commit](https://img.shields.io/github/last-commit/phra/rustbuster)](https://github.com/phra/rustbuster/commits) | [![Contributors](https://img.shields.io/github/contributors/phra/rustbuster)](https://github.com/phra/rustbuster/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/phra/rustbuster)](https://github.com/phra/rustbuster/stargazers) |
 | [vaf](https://github.com/d4rckh/vaf) | [![Last Commit](https://img.shields.io/github/last-commit/d4rckh/vaf)](https://github.com/d4rckh/vaf/commits) | [![Contributors](https://img.shields.io/github/contributors/d4rckh/vaf)](https://github.com/d4rckh/vaf/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/d4rckh/vaf)](https://github.com/d4rckh/vaf/stargazers) |
 
+## Port / Port Scanners
+
+Tools which focus on port scanning.
+
+| Main Site | Last Commit | Committers | Stars |
+| --- | --- | --- | --- |
+| [RustScan](https://github.com/RustScan/RustScan) | [![Last Commit](https://img.shields.io/github/last-commit/RustScan/RustScan)](https://github.com/RustScan/RustScan/commits) | [![Contributors](https://img.shields.io/github/contributors/RustScan/RustScan)](https://github.com/RustScan/RustScan/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/RustScan/RustScan)](https://github.com/RustScan/RustScan/stargazers) |
+| [Naabu](https://github.com/projectdiscovery/naabu) | [![Last Commit](https://img.shields.io/github/last-commit/projectdiscovery/naabu)](https://github.com/projectdiscovery/naabu/commits) | [![Contributors](https://img.shields.io/github/contributors/projectdiscovery/naabu)](https://github.com/projectdiscovery/naabu/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/projectdiscovery/naabu)](https://github.com/projectdiscovery/naabu/stargazers) |
+
 ## CMS Web Scanners
 
 Tools which can find a range of 'known' vulnerabilities on one or more CMS websites.
