@@ -3,6 +3,8 @@ A list of open source web security scanners on GitHub and GitLab, ordered by Sta
 
 Note that some large projects have multiple repos - in which case the second most relevant repo is included immediately after and is indented.
 
+Related: [open-source-llm-scanners](https://github.com/psiinon/open-source-llm-scanners/)
+
 ## General Purpose Web Scanners
 
 Tools which can find a range of 'unknown' vulnerabilities on any websites.
